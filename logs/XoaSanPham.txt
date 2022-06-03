@@ -1,0 +1,27 @@
+[LOG] Sản phẩm ID  đã bị xóa khỏi hệ thống vào lúc 2021/04/12 00:35:59
+[LOG] Sản phẩm ID 9 đã bị xóa khỏi hệ thống vào lúc 2021/04/12 00:36:37
+[LOG] Sản phẩm ID 29 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:58:45
+[LOG] Sản phẩm ID 28 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:58:48
+[LOG] Sản phẩm ID 26 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:58:51
+[LOG] Sản phẩm ID 25 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:58:54
+[LOG] Sản phẩm ID 24 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:58:57
+[LOG] Sản phẩm ID 23 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:00
+[LOG] Sản phẩm ID 21 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:03
+[LOG] Sản phẩm ID 22 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:04
+[LOG] Sản phẩm ID 20 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:06
+[LOG] Sản phẩm ID 19 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:09
+[LOG] Sản phẩm ID 18 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:13
+[LOG] Sản phẩm ID 17 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:16
+[LOG] Sản phẩm ID 33 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 00:59:19
+[LOG] Sản phẩm ID 34 đã bị xóa khỏi hệ thống vào lúc 2021/07/07 01:56:06
+[LOG] Sản phẩm ID 36 đã bị xóa khỏi hệ thống vào lúc 2021/07/10 12:15:07
+[LOG] Sản phẩm ID 37 đã bị xóa khỏi hệ thống vào lúc 2021/07/10 12:34:38
+[LOG] Sản phẩm ID 43 đã bị xóa khỏi hệ thống vào lúc 2021/08/09 12:01:31
+[LOG] Sản phẩm ID 52 đã bị xóa khỏi hệ thống vào lúc 2021/09/01 02:30:55
+[LOG] Sản phẩm ID 54 đã bị xóa khỏi hệ thống vào lúc 2021/09/01 02:31:08
+[LOG] Sản phẩm ID 53 đã bị xóa khỏi hệ thống vào lúc 2021/09/01 02:31:19
+[LOG] Sản phẩm ID 51 đã bị xóa khỏi hệ thống vào lúc 2021/09/01 02:31:29
+[LOG] Sản phẩm ID 39 đã bị xóa khỏi hệ thống vào lúc 2021/09/01 10:32:52
+[LOG] Sản phẩm ID 58 đã bị xóa khỏi hệ thống vào lúc 2021/10/15 06:53:39
+[LOG] Sản phẩm ID 55 đã bị xóa khỏi hệ thống vào lúc 2021/10/15 06:53:47
+[LOG] Sản phẩm ID 61 đã bị xóa khỏi hệ thống vào lúc 2021/10/15 06:54:04
