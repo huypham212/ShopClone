@@ -12,3 +12,8 @@ muareclo_shopclone
 6. Sau khi chọn file thành công thì nhấn nút `Go` ở `góc phải dưới màn hình` để tiến hành import database
 
 ## Run code
+1. Mở `Xampp` và Start `Apache` và `MySQL`
+2. Mở trình duyệt bất kỳ và truy cập theo URL:
+```sh
+http://localhost/shopclone/public/client/Login.php
+```
