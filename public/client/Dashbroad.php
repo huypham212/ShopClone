@@ -7,7 +7,7 @@ require_once("../../public/client/Header.php");
 require_once("../../public/client/Nav.php");
 ?>
 
-<p>Hahaha</p>
+
 <div class="content-i">
     <div class="content-box">
         <?php if (empty($getUser['email'])) { ?>
