@@ -112,7 +112,7 @@ require_once("../../public/client/Nav.php");
             <?php foreach ($CMSNT->get_list("SELECT * FROM `category` WHERE `display` = 'SHOW' ORDER BY `stt` ") as $category) { ?>
                 <div class="col-sm-12">
                     <div class="element-wrapper">
-                        <h6 class="element-header"><?= strtoupper($category['title']); ?></h6>
+                        <h6 class="element-header"><?= $category['title']; ?></h6>
                         <div class="element-box-tp">
                             <?php if ($CMSNT->site('type_buy') == 'LIST') { ?>
                                 <div class="table-responsive">
@@ -232,7 +232,7 @@ require_once("../../public/client/Nav.php");
 
                             <div class="col-sm-12">
                                 <div class="element-wrapper">
-                                    <h6 class="element-header"><?= strtoupper($category['name']); ?></h6>
+                                    <h6 class="element-header"><?= $category['name']; ?></h6>
                                     <div class="element-box-tp">
                                         <div class="table-responsive">
                                             <table class="table table-padded">
